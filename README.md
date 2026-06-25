@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sam6611/Leetcode-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sam6611/Leetcode-practice/tree/master/0053-maximum-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/sam6611/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sam6611/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam6611/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
