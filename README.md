@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sam6611/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sam6611/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sam6611/Leetcode-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sam6611/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sam6611/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/sam6611/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sam6611/Leetcode-practice/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sam6611/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sam6611/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
