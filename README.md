@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/sam6611/Leetcode-practice/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sam6611/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/sam6611/Leetcode-practice/tree/master/1470-shuffle-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/sam6611/Leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sam6611/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sam6611/Leetcode-practice/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
