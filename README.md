@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sam6611/Leetcode-practice/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/sam6611/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sam6611/Leetcode-practice/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
