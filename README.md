@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/sam6611/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/sam6611/Leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sam6611/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Database
 |  |
 | ------- |
@@ -153,8 +155,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sam6611/Leetcode-practice/tree/master/0061-rotate-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
