@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sam6611/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sam6611/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sam6611/Leetcode-practice/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sam6611/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sam6611/Leetcode-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam6611/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sam6611/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sam6611/Leetcode-practice/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sam6611/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sam6611/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sam6611/Leetcode-practice/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sam6611/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam6611/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
