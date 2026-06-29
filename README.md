@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/sam6611/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/sam6611/Leetcode-practice/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/sam6611/Leetcode-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sam6611/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/sam6611/Leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sam6611/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
