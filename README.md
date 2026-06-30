@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sam6611/Leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sam6611/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sam6611/Leetcode-practice/tree/master/0053-maximum-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sam6611/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sam6611/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sam6611/Leetcode-practice/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sam6611/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -184,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
