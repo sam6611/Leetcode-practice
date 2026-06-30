@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/sam6611/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sam6611/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sam6611/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sam6611/Leetcode-practice/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sam6611/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sam6611/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sam6611/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam6611/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sam6611/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
