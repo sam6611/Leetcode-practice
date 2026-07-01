@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/sam6611/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sam6611/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sam6611/Leetcode-practice/tree/master/1672-richest-customer-wealth) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/sam6611/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
