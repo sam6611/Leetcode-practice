@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sam6611/Leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -211,4 +214,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
