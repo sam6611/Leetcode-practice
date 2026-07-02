@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sam6611/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sam6611/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sam6611/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/sam6611/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sam6611/Leetcode-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sam6611/Leetcode-practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sam6611/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sam6611/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sam6611/Leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
