@@ -1,19 +1,28 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        vector<int> ans;
-        int n=nums.size();
-        // int count=0;
-        for(int i=0;i<n;i++){
-            int count=0;
-            for(int j=0;j<n;j++){
-            if(nums[i]>nums[j]){
-                count++;
-            }
+        // Make a copy of the original array
+        vector<int> sorted = nums;
 
+        // Sort the copied array
+        sort(sorted.begin(), sorted.end());
+
+        // Store the first occurrence of each number
+        unordered_map<int, int> mp;
+
+        for (int i = 0; i < sorted.size(); i++) {
+            if (mp.find(sorted[i]) == mp.end()) {
+                mp[sorted[i]] = i;
             }
-            ans.push_back(count);
         }
+
+        // Build the answer
+        vector<int> ans;
+
+        for (int num : nums) {
+            ans.push_back(mp[num]);
+        }
+
         return ans;
     }
 };
