@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/sam6611/Leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sam6611/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1920-build-array-from-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sam6611/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
+| [1920-build-array-from-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sam6611/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
