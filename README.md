@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sam6611/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/sam6611/Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sam6611/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/sam6611/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sam6611/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sam6611/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/sam6611/Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sam6611/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Database
