@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/sam6611/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sam6611/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sam6611/Leetcode-practice/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sam6611/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sam6611/Leetcode-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/sam6611/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 ## Array
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sam6611/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sam6611/Leetcode-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sam6611/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sam6611/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/sam6611/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sam6611/Leetcode-practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sam6611/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
