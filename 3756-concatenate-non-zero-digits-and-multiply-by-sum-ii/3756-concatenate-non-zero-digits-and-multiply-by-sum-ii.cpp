@@ -1,62 +1,47 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
+        static const int MOD=1e9+7;
+        int n=s.size();
 
-        vector<int> pos, digit;
-
-        // Store positions and values of non-zero digits
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] != '0') {
-                pos.push_back(i);
-                digit.push_back(s[i] - '0');
+         vector<int>cnt(n+1,0);
+         vector<int>digit;
+         for(int i=0;i<n;i++){
+            cnt[i+1]=cnt[i];
+            if(s[i]!='0'){
+                digit.push_back(s[i]-'0');
+                cnt[i+1]++;
             }
-        }
+         }
+         int m=digit.size();
+         vector<long long>pow(m+1,1);
+         for(int i=1;i<=m;i++){
+            pow[i]=(pow[i-1]*10)%MOD;
+         }
+         vector<long long>prefstr(m+1,0);
+         vector<long long>presum(m+1,0);
+         for(int i=1;i<=m;i++){
+            prefstr[i]=(prefstr[i-1]*10+digit[i-1])%MOD;
+            presum[i]=presum[i-1]+digit[i-1];
+         }
+         vector<int>ans;
+         for(auto &q:queries){
+             int l=q[0];
+             int r=q[1];
 
-        int n = digit.size();
-
-        // pow10[i] = 10^i % MOD
-        vector<long long> pow10(n + 1, 1);
-        for (int i = 1; i <= n; i++)
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
-
-        // Prefix concatenated number
-        vector<long long> prefNum(n + 1, 0);
-
-        // Prefix digit sum
-        vector<long long> prefSum(n + 1, 0);
-
-        for (int i = 0; i < n; i++) {
-            prefNum[i + 1] = (prefNum[i] * 10 + digit[i]) % MOD;
-            prefSum[i + 1] = prefSum[i] + digit[i];
-        }
-
-        vector<int> ans;
-
-        for (auto &q : queries) {
-            int l = q[0];
-            int r = q[1];
-
-            int L = lower_bound(pos.begin(), pos.end(), l) - pos.begin();
-            int R = upper_bound(pos.begin(), pos.end(), r) - pos.begin() - 1;
-
-            if (L > R) {
+             int R=cnt[r+1]-1;
+             int L=cnt[l];
+             if(L>R){
                 ans.push_back(0);
                 continue;
-            }
+             }
+             int len=R-L+1;
+             long long x=(prefstr[R+1]-prefstr[L]*pow[len])%MOD;
+             if(x<0) x+=MOD;
+             long long  sum= presum[R+1]-presum[L];
 
-            int len = R - L + 1;
-
-            long long x = (prefNum[R + 1] -
-                           (prefNum[L] * pow10[len]) % MOD +
-                           MOD) % MOD;
-
-            long long sum = prefSum[R + 1] - prefSum[L];
-
-            ans.push_back((x * (sum % MOD)) % MOD);
-        }
-
-        return ans;
+            ans.push_back((x*sum)%MOD);
+         }
+         return ans;
     }
 };
