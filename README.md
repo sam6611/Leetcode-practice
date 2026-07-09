@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sam6611/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/sam6611/Leetcode-practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sam6611/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sam6611/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/sam6611/Leetcode-practice/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sam6611/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/sam6611/Leetcode-practice/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
