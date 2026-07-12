@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sam6611/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1288-remove-covered-intervals](https://github.com/sam6611/Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sam6611/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/sam6611/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -277,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/sam6611/Leetcode-practice/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sam6611/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sam6611/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sam6611/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,4 +350,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sam6611/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
