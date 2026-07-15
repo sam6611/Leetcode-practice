@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/sam6611/Leetcode-practice/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sam6611/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sam6611/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sam6611/Leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sam6611/Leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -370,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sam6611/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sam6611/Leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
