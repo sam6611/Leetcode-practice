@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sam6611/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1260-shift-2d-grid](https://github.com/sam6611/Leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sam6611/Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sam6611/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/sam6611/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/sam6611/Leetcode-practice/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/sam6611/Leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/sam6611/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sam6611/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/sam6611/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sam6611/Leetcode-practice/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/sam6611/Leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sam6611/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/sam6611/Leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sam6611/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
