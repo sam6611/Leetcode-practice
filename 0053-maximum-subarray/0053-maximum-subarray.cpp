@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             cursum=max(nums[i],nums[i]+cursum);
             maxsum=max(maxsum, cursum);
-            if(maxsum<0){
+            if(cursum<0){
                 cursum=0;
             }
         }
