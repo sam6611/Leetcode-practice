@@ -3,17 +3,12 @@ public:
     int maxArea(vector<int>& height) {
         int n=height.size();
         int left=0, right=n-1;
-        int maxheight, maxwidth;
+        int minheight, maxwidth;
         int water=0;
-        for(int i=0;i<n;i++){
-            if(height[left]<height[right]){
-                maxheight=height[left];
-            }
-            else{
-                maxheight=height[right];
-            }
+        while(left<right){
+            minheight=min(height[left],height[right]);
             maxwidth=right-left;
-            water=max(water,maxwidth*maxheight);
+            water=max(water,minheight*maxwidth);
             if(height[left]<height[right]) left++;
             else right--;
         }
