@@ -458,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sam6611/Leetcode-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sam6611/Leetcode-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
