@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sam6611/Leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sam6611/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/sam6611/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sam6611/Leetcode-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sam6611/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sam6611/Leetcode-practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
