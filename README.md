@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sam6611/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sam6611/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sam6611/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sam6611/Leetcode-practice/tree/master/0682-baseball-game) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/sam6611/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sam6611/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sam6611/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sam6611/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sam6611/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/sam6611/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sam6611/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sam6611/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sam6611/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sam6611/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sam6611/Leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/sam6611/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/sam6611/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sam6611/Leetcode-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sam6611/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/sam6611/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sam6611/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sam6611/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/sam6611/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -489,4 +493,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sam6611/Leetcode-practice/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/sam6611/Leetcode-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
